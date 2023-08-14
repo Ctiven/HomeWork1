@@ -4,6 +4,7 @@
 //a = -9 b = -3 -> max = -3
 
 
+
 int a, b;
 
 Console.WriteLine("Введите 2 числа ");
