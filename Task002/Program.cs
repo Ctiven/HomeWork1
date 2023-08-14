@@ -12,8 +12,10 @@ b = Convert.ToInt32(Console.ReadLine());
 if(a > b)
 {
     Console.WriteLine("Наибольшее число {0}",a);
+    Console.WriteLine("Наименьшее число {0}",b);
 }
 else
 {
     Console.WriteLine("Наибольшее число {0}",b);
+    Console.WriteLine("Наименьшее число {0}",a);
 }
